@@ -56,7 +56,7 @@ Clean, gridline-free layout with a consistent colour theme.
 ⭐ The average rating of 4.34 suggests generally high customer satisfaction.
 ---
 8. Dashboard Preview
-![Dashboard Preview](dashboard_preview.png.png)
+![Dashboard Preview](dashboard_preview.png.png)](MY_DASHBOARD.xlsx)
 Click the image to open the Excel file.
 ---
 9. Excel File
