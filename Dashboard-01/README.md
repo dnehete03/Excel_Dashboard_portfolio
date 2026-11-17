@@ -54,13 +54,14 @@ Clean, gridline-free layout with a consistent colour theme.
 📅 Monthly sales are fairly stable at ₹6.3 M – ₹6.8 M. January is the highest (₹6.83 M) and February the lowest (₹6.27 M), partly because it is a shorter month.
 🗓️ Saturday is the strongest day (₹7.78 M) and Tuesday the weakest (₹7.36 M), though the gap between days is small.
 ⭐ The average rating of 4.34 suggests generally high customer satisfaction.
----
+
 8. Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+[![Dashboard Preview](dashboard_preview.png)](MY_DASHBOARD.xlsx)
 Click the image to open the Excel file.
----
+
 9. Excel File
 📂 Download the Excel Dashboard
+
 The workbook has 4 sheets:
 Sheet	Description
 `Swiggy Data`	Raw dataset (197,430 rows, 13 columns)
@@ -68,7 +69,7 @@ Sheet	Description
 `Analysis`	Pivot tables and pivot charts
 `Dasboard`	Final interactive dashboard
 > Open the file in **Microsoft Excel (desktop)** so that slicers, pivot charts and the map chart work correctly.
----
+
 10. Skills Demonstrated
 Data cleaning and data preparation in Excel
 Pivot Tables and Pivot Charts
